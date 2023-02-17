@@ -1,0 +1,75 @@
+{
+  "data":[
+        {
+          "number":5,
+          "channels":[
+                {
+                  "titleChannel":"TV App",
+                  "subTitleChannel":"promo",
+                  "logoUrl":"https://raw.githubusercontent.com/cabdellah/C-A/main/tv/icon.png",
+                  "videoUrl":"https://youtu.be/LQtXVbnN2UY"
+                },
+                {
+                  "titleChannel":"القناة الأولى",
+                  "subTitleChannel":"قناة وطنية",
+                  "logoUrl":"https://raw.githubusercontent.com/cabdellah/C-A/main/tv/MA_elaoula.png",
+                  "videoUrl":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/al_aoula_inter-avc1_1000000=3-mp4a_130400_qad=1.m3u8"
+                },
+                {
+                  "titleChannel":"قناة العيون",
+                  "subTitleChannel":"قناة وطنية",
+                  "logoUrl":"https://raw.githubusercontent.com/cabdellah/C-A/main/tv/MA_elaayoune.png",
+                  "videoUrl":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_1000000=3-mp4a_130400_qad=1.m3u8"
+                },
+                {
+                  "titleChannel":"القناة الرياضية",
+                  "subTitleChannel":"قناة وطنية",
+                  "logoUrl":"https://raw.githubusercontent.com/cabdellah/C-A/main/tv/MA_eriadia.png",
+                  "videoUrl":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1000000=3-mp4a_130400_qad=1.m3u8"
+                },
+                {
+                  "titleChannel":"القناة الثقافية",
+                  "subTitleChannel":"قناة وطنية",
+                  "logoUrl":"https://raw.githubusercontent.com/cabdellah/C-A/main/tv/MA_ethaqafia.png",
+                  "videoUrl":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/arrabiaa-avc1_1000000=3-mp4a_130400_qad=1.m3u8"
+                },
+                {
+                  "titleChannel":"القناة المغربية",
+                  "subTitleChannel":"قناة وطنية",
+                  "logoUrl":"https://raw.githubusercontent.com/cabdellah/C-A/main/tv/MA_elmaghribia.png",
+                  "videoUrl":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/al_maghribia_snrt-avc1_1000000=3-mp4a_130400_qad=1.m3u8"
+                },
+                {
+                  "titleChannel":"القناة السادسة",
+                  "subTitleChannel":"قناة وطنية",
+                  "logoUrl":"https://raw.githubusercontent.com/cabdellah/C-A/main/tv/MA_essadissa.png",
+                  "videoUrl":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_1000000=3-mp4a_130400_qad=1.m3u8"
+                },
+                {
+                  "titleChannel":"القناة الأمازيغية",
+                  "subTitleChannel":"قناة وطنية",
+                  "logoUrl":"https://raw.githubusercontent.com/cabdellah/C-A/main/tv/MA_tamazight.png",
+                  "videoUrl":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/tamazight_tv8_snrt-avc1_1500000=4-mp4a_130400_qad=1.m3u8"
+                },
+                {
+                  "titleChannel":"القناة الثانية",
+                  "subTitleChannel":"قناة خاصة",
+                  "logoUrl":"https://raw.githubusercontent.com/cabdellah/C-A/main/tv/MA_2m.png",
+                  "videoUrl":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=4-mp4a_130400_qad=1.m3u8"
+                },
+                {
+                  "titleChannel":"القناة 24",
+                  "subTitleChannel":"قناة خاصة",
+                  "logoUrl":"https://raw.githubusercontent.com/cabdellah/C-A/main/tv/m24_maroc.png",
+                  "videoUrl":"https://www.maptvnews.ma/live/smil:OutStream1.smil/chunklist_w501697827_b850000_sleng.m3u8"
+                },
+                {
+                  "titleChannel":"قناة ثيلي",
+                  "subTitleChannel":"قناة خاصة",
+                  "logoUrl":"https://raw.githubusercontent.com/cabdellah/C-A/main/tv/MA_teli.png",
+                  "videoUrl":"https://playback.akamaized.net/streams/27130247_8196478_lsi9ri88isg6wgxzy69_1/media/27130247_8196478_lsi9ri88isg6wgxzy69_1@1756000p.m3u8?dw=14400&ts=1673888400&hdnts=exp=1674064185~acl=/streams/27130247_8196478_lsi9ri88isg6wgxzy69_1/media*~hmac=354b24b717d53839cb36e5e47c561d7ab344231bbe84f53b0cc560eaf37bddc4"
+                }
+            ]
+        }
+    ]
+}
