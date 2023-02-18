@@ -6,6 +6,8 @@
     "number":1,
     "name":"Abdellah",
     "title":"Chekirou",
+    "logoUrl":"https://raw.githubusercontent.com/cabdellah/C-A/main/tv/icon.png",
+    "videoUrl":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
     "numberChannels":22,
 
     "englishName":"Al-Faatiha",
@@ -18,7 +20,7 @@
      
         "titleChannel":"Abdellah",
         "subTitleChannel":"Chekirou",
-        "tvUrl":"https://raw.githubusercontent.com/cabdellah/C-A/main/tv/icon.png",
+        "logoUrl":"https://raw.githubusercontent.com/cabdellah/C-A/main/tv/icon.png",
         "videoUrl":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
 
 
@@ -39,7 +41,7 @@
     {
         "titleChannel":"Abdellah",
         "subTitleChannel":"Chekirou",
-        "tvUrl":"https://raw.githubusercontent.com/cabdellah/C-A/main/tv/tv.png",
+        "logoUrl":"https://raw.githubusercontent.com/cabdellah/C-A/main/tv/icon.png",
         "videoUrl":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
 
 
@@ -62,7 +64,7 @@
 
         "titleChannel":"Abdellah",
         "subTitleChannel":"Chekirou",
-        "tvUrl":"https://raw.githubusercontent.com/cabdellah/C-A/main/tv/icon.png",
+        "logoUrl":"https://raw.githubusercontent.com/cabdellah/C-A/main/tv/icon.png",
         "videoUrl":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
 
 
@@ -85,7 +87,7 @@
 
         "titleChannel":"Abdellah",
         "subTitleChannel":"Chekirou",
-        "tvUrl":"https://raw.githubusercontent.com/cabdellah/C-A/main/tv/icon.png",
+        "logoUrl":"https://raw.githubusercontent.com/cabdellah/C-A/main/tv/icon.png",
         "videoUrl":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
 
 
@@ -106,7 +108,7 @@
     {
         "titleChannel":"Abdellah",
         "subTitleChannel":"Chekirou",
-        "tvUrl":"https://raw.githubusercontent.com/cabdellah/C-A/main/tv/icon.png",
+        "logoUrl":"https://raw.githubusercontent.com/cabdellah/C-A/main/tv/icon.png",
         "videoUrl":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
 
 
@@ -127,7 +129,7 @@
     {
         "titleChannel":"Abdellah",
         "subTitleChannel":"Chekirou",
-        "tvUrl":"https://raw.githubusercontent.com/cabdellah/C-A/main/tv/icon.png",
+        "logoUrl":"https://raw.githubusercontent.com/cabdellah/C-A/main/tv/icon.png",
         "videoUrl":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
 
 
@@ -148,7 +150,7 @@
     {
         "titleChannel":"Abdellah",
         "subTitleChannel":"Chekirou",
-        "tvUrl":"https://raw.githubusercontent.com/cabdellah/C-A/main/tv/icon.png",
+        "logoUrl":"https://raw.githubusercontent.com/cabdellah/C-A/main/tv/icon.png",
         "videoUrl":"https://cdn.islamic.network/quran/audio/128/ar.alafasy/1.mp3",
 
 
